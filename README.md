@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DominikFrackowiak
 - 👀 I’m interested in ...music, society, Internet, dogs
-- 🌱 I’m currently learning ...JavaScript, Firebase
+- 🌱 I’m currently learning ...React, Firebase
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
